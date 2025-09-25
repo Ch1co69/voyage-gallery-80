@@ -123,7 +123,9 @@ export default function DestinationCard({
                 </div>
               </div>
               
-              <div className="text-center p-4 bg-muted/30 rounded-lg">
+              <Button className="w-full">Saiba Mais</Button>
+              
+              <div className="text-center p-4 bg-muted/30 rounded-lg mt-4">
                 <p className="text-sm text-muted-foreground">
                   Entre em contato para mais informações sobre este destino
                 </p>
